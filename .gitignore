@@ -3,6 +3,9 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+sample_submission.csv
+test.csv
+train.csv
 # C extensions
 *.so
 
